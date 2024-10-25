@@ -1,15 +1,16 @@
 ---
 layout: post
-title: "My first trip: The wonderful Himalayan"
+title: 고양이전설:마네키네코
 img: himalayan.jpg # Add image post (optional)
 date: 2017-07-12 12:55:00 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-tag: [Travel, Blogging, Mountains]
+tag: [고양이, 전설, 마네키네코]
 ---
-Flexitarian hella quinoa, stumptown chillwave squid heirloom pop-up church-key. Chicharrones prism copper mug tousled raw denim kinfolk gentrify cornhole hexagon tacos bespoke squid farm-to-table snackwave everyday carry. Vaporware chicharrones activated charcoal jianbing pok pok. Selfies live-edge unicorn kale chips jean shorts authentic pickled gochujang pork belly whatever chicharrones leggings chartreuse gluten-free irony. Trust fund shoreditch hammock, helvetica succulents pug ethical waistcoat VHS tbh air plant iceland banjo tote bag fanny pack. Ramps ugh readymade copper mug, gastropub hexagon squid semiotics post-ironic humblebrag farm-to-table enamel pin. Gochujang chia portland hexagon roof party post-ironic, semiotics street art tbh synth. Air plant vinyl sustainable pork belly. Chicharrones cronut raw denim listicle flexitarian franzen. Actually kickstarter pinterest chillwave mlkshk VHS drinking vinegar gastropub pabst poke swag mustache coloring book.
+옛날 일본에는 마네키네코라는 전설적인 고양이 이야기가 전해집니다. 마네키네코는 오늘날까지도 많은 상점이나 집에서 볼 수 있는, 한 손을 들고 있는 고양이 동상으로 유명하죠. 이 고양이의 이야기는 운과 행운을 불러온다고 믿어집니다.
 
-Sriracha gochujang before they sold out, photo booth trust fund raw denim iceland. Jean shorts messenger bag meh, try-hard lumbersexual four dollar toast banh mi trust fund church-key pok pok quinoa +1 tbh. Wayfarers tilde gentrify vexillologist pitchfork air plant meditation heirloom polaroid asymmetrical la croix dreamcatcher man bun ennui brooklyn. Seitan fingerstache ugh lyft, aesthetic succulents hot chicken literally chambray helvetica. DIY butcher poutine, cred scenester iceland taxidermy retro tumeric viral. Humblebrag knausgaard kinfolk, af dreamcatcher bicycle rights gochujang. Bushwick bicycle rights direct trade, ethical photo booth gastropub hell of microdosing fingerstache offal affogato. Small batch godard try-hard prism kale chips, four loko cray semiotics helvetica subway tile heirloom vaporware. Venmo VHS keytar succulents chambray.
+이 전설에 따르면, 에도 시대에 가난한 승려가 작은 절에서 혼자 살고 있었습니다. 절은 너무 가난해서 승려는 매일 굶주리고, 비바람을 피할 방법도 거의 없었습니다. 어느 날, 한 고양이가 절에 나타나 승려와 함께 지내기 시작했습니다. 승려는 비록 먹을 것이 많지 않았지만, 자신의 음식 중 일부를 고양이에게 나눠주며 고양이를 사랑으로 돌봤습니다.
 
-> Brunch hella poutine authentic farm-to-table. Stumptown craft beer lomo, heirloom single-origin coffee synth PBR&B post-ironic. <cite>- Lorem Ipsum</cite>
+어느 날, 큰 폭풍우가 몰아치던 날에 부유한 상인이 그 근처를 지나가다가 폭우를 피해 절 앞에서 잠시 쉬고 있었습니다. 그때 그 상인은 문 앞에 서 있던 고양이가 한 발을 들고 자신을 부르는 듯한 동작을 하는 것을 보게 됩니다. 호기심에 이끌려 상인은 고양이가 있는 절로 들어갔고, 그 순간 상인이 머물던 나무가 벼락에 맞아 쓰러졌습니다. 고양이가 그를 구한 것입니다.
+> "행운은 때로는 작은 손짓에서 시작된다." <cite>- </cite>
 
-Banh mi hoodie viral, jianbing 3 wolf moon meditation tbh pok pok everyday carry lumbersexual kombucha iPhone. Kale chips bespoke gentrify, hella organic artisan bicycle rights cardigan listicle echo park letterpress pork belly yuccie tofu live-edge. Cred crucifix ethical, cloud bread 90's waistcoat vice hoodie master cleanse sustainable salvia trust fund. Ethical activated charcoal live-edge, bushwick paleo PBR&B master cleanse affogato. Hot chicken listicle VHS hexagon, retro brooklyn quinoa ramps mustache kickstarter man braid af godard trust fund authentic. Food truck kickstarter trust fund bespoke fingerstache polaroid humblebrag affogato air plant. Heirloom pabst gochujang, art party enamel pin aesthetic 90's typewriter coloring book DIY cliche chartreuse try-hard. DIY street art flexitarian, viral 3 wolf moon fashion axe retro art party tbh green juice franzen literally. Enamel pin trust fund yuccie, before they sold out wolf jean shorts cliche intelligentsia chambray.
+이 일에 크게 감사한 상인은 절에 많은 기부를 하였고, 그 덕분에 절은 번성하게 되었습니다. 고양이는 그 후로 사람들에게 행운과 번영을 가져다주는 존재로 여겨지게 되었고, 마네키네코라는 이름으로 존경받았습니다. 오늘날까지도 마네키네코는 손님을 불러들이고 행운을 가져다주는 상징으로 사랑받고 있습니다.
