@@ -1,15 +1,21 @@
 ---
 layout: post
-title: "Sweden: Beautiful forest"
+title: "중세 유럽의 고양이: 마녀와의 불길한 연관성"
 img: sweden.jpg # Add image post (optional)
 date: 2017-07-05 12:52:00 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-tag: [Sweden, Travel, Forest]
+tag: [중세 유럽, 마녀, 미신]
 ---
-Flexitarian hella quinoa, stumptown chillwave squid heirloom pop-up church-key. Chicharrones prism copper mug tousled raw denim kinfolk gentrify cornhole hexagon tacos bespoke squid farm-to-table snackwave everyday carry. Vaporware chicharrones activated charcoal jianbing pok pok. Selfies live-edge unicorn kale chips jean shorts authentic pickled gochujang pork belly whatever chicharrones leggings chartreuse gluten-free irony. Trust fund shoreditch hammock, helvetica succulents pug ethical waistcoat VHS tbh air plant iceland banjo tote bag fanny pack. Ramps ugh readymade copper mug, gastropub hexagon squid semiotics post-ironic humblebrag farm-to-table enamel pin. Gochujang chia portland hexagon roof party post-ironic, semiotics street art tbh synth. Air plant vinyl sustainable pork belly. Chicharrones cronut raw denim listicle flexitarian franzen. Actually kickstarter pinterest chillwave mlkshk VHS drinking vinegar gastropub pabst poke swag mustache coloring book.
+고양이가 불길한 존재로 여겨진 것에 대한 역사적 배경은 주로 중세 유럽의 마녀 사냥과 관련이 있습니다. 
 
-Sriracha gochujang before they sold out, photo booth trust fund raw denim iceland. Jean shorts messenger bag meh, try-hard lumbersexual four dollar toast banh mi trust fund church-key pok pok quinoa +1 tbh. Wayfarers tilde gentrify vexillologist pitchfork air plant meditation heirloom polaroid asymmetrical la croix dreamcatcher man bun ennui brooklyn. Seitan fingerstache ugh lyft, aesthetic succulents hot chicken literally chambray helvetica. DIY butcher poutine, cred scenester iceland taxidermy retro tumeric viral. Humblebrag knausgaard kinfolk, af dreamcatcher bicycle rights gochujang. Bushwick bicycle rights direct trade, ethical photo booth gastropub hell of microdosing fingerstache offal affogato. Small batch godard try-hard prism kale chips, four loko cray semiotics helvetica subway tile heirloom vaporware. Venmo VHS keytar succulents chambray.
+마녀와의 연관성:중세 유럽에서 마녀는 종종 검은 고양이를 애완동물로 두고 있다는 믿음이 퍼졌습니다. 이 때문에 고양이는 마녀의 상징으로 여겨졌습니다. 사람들이 검은 고양이를 보았을 때, 마녀와 관련된 불길한 존재라고 생각하는 경향이 강해졌습니다.
 
-> Brunch hella poutine authentic farm-to-table. Stumptown craft beer lomo, heirloom single-origin coffee synth PBR&B post-ironic. <cite>- Lorem Ipsum</cite>
+검은 고양이의 이미지:검은 고양이는 특히 불길한 존재로 간주되었습니다. 이는 고양이의 검은 털이 어둠과 결합되어 마법적인 힘을 지닌 동물로 여겨지게 만들었습니다. 이런 인식은 일부 문화에서 지금까지도 여전히 영향을 미치고 있습니다.
 
-Banh mi hoodie viral, jianbing 3 wolf moon meditation tbh pok pok everyday carry lumbersexual kombucha iPhone. Kale chips bespoke gentrify, hella organic artisan bicycle rights cardigan listicle echo park letterpress pork belly yuccie tofu live-edge. Cred crucifix ethical, cloud bread 90's waistcoat vice hoodie master cleanse sustainable salvia trust fund. Ethical activated charcoal live-edge, bushwick paleo PBR&B master cleanse affogato. Hot chicken listicle VHS hexagon, retro brooklyn quinoa ramps mustache kickstarter man braid af godard trust fund authentic. Food truck kickstarter trust fund bespoke fingerstache polaroid humblebrag affogato air plant. Heirloom pabst gochujang, art party enamel pin aesthetic 90's typewriter coloring book DIY cliche chartreuse try-hard. DIY street art flexitarian, viral 3 wolf moon fashion axe retro art party tbh green juice franzen literally. Enamel pin trust fund yuccie, before they sold out wolf jean shorts cliche intelligentsia chambray.
+사냥과 박해:마녀 사냥이 극에 달했던 15세기부터 18세기까지, 많은 고양이들이 마녀와 함께 처형되었습니다. 사람들은 고양이를 사냥하고 불태우는 등 잔인한 방법으로 처벌했습니다. 이러한 행위는 고양이가 마녀의 동물이라는 믿음에 뿌리를 두고 있습니다.
+
+고양이에 대한 미신:고양이에 대한 여러 미신과 전통도 불길한 이미지에 기여했습니다. 예를 들어, 검은 고양이가 길을 가로막으면 불행이 찾아온다는 미신이 널리 퍼졌습니다. 이 때문에 사람들은 고양이를 피하고, 그들을 불길한 존재로 인식하게 되었습니다.
+
+여성과의 관계:고양이는 종종 여성과 연관되어 있었습니다. 당시 사회에서는 여성에 대한 편견과 차별이 존재했으며, 이로 인해 여성과 고양이가 함께 불길한 존재로 여겨졌습니다. 마녀로 몰린 여성들이 고양이를 키우는 경우가 많았기 때문입니다.
+
+이러한 요소들이 결합되어 고양이는 오랫동안 불길한 존재로 여겨졌습니다. 그러나 시간이 지나면서 사람들은 고양이의 진정한 본성과 사랑스러운 성격을 이해하게 되었고, 현재는 많은 문화에서 고양이가 사랑받는 동물로 자리 잡았습니다.
