@@ -1,15 +1,37 @@
 ---
 layout: post
-title: "Malaysia: Free swimming"
+title: "고양이에 대한 10가지 놀라운 사실"
 img: malaysia.jpg # Add image post (optional)
 date: 2017-07-12 12:53:00 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-tag: [Travel, Malaysia, Blogging]
+tag: [고양이, 놀라운, 10가지]
 ---
-Flexitarian hella quinoa, stumptown chillwave squid heirloom pop-up church-key. Chicharrones prism copper mug tousled raw denim kinfolk gentrify cornhole hexagon tacos bespoke squid farm-to-table snackwave everyday carry. Vaporware chicharrones activated charcoal jianbing pok pok. Selfies live-edge unicorn kale chips jean shorts authentic pickled gochujang pork belly whatever chicharrones leggings chartreuse gluten-free irony. Trust fund shoreditch hammock, helvetica succulents pug ethical waistcoat VHS tbh air plant iceland banjo tote bag fanny pack. Ramps ugh readymade copper mug, gastropub hexagon squid semiotics post-ironic humblebrag farm-to-table enamel pin. Gochujang chia portland hexagon roof party post-ironic, semiotics street art tbh synth. Air plant vinyl sustainable pork belly. Chicharrones cronut raw denim listicle flexitarian franzen. Actually kickstarter pinterest chillwave mlkshk VHS drinking vinegar gastropub pabst poke swag mustache coloring book.
+1.고양이의 야행성 본능
+고양이는 기본적으로 야행성 동물입니다. 집고양이들도 그들의 조상인 사냥꾼 고양이들의 본능을 유지하고 있어, 밤이나 새벽에 가장 활발해지는 경향이 있습니다.
 
-Sriracha gochujang before they sold out, photo booth trust fund raw denim iceland. Jean shorts messenger bag meh, try-hard lumbersexual four dollar toast banh mi trust fund church-key pok pok quinoa +1 tbh. Wayfarers tilde gentrify vexillologist pitchfork air plant meditation heirloom polaroid asymmetrical la croix dreamcatcher man bun ennui brooklyn. Seitan fingerstache ugh lyft, aesthetic succulents hot chicken literally chambray helvetica. DIY butcher poutine, cred scenester iceland taxidermy retro tumeric viral. Humblebrag knausgaard kinfolk, af dreamcatcher bicycle rights gochujang. Bushwick bicycle rights direct trade, ethical photo booth gastropub hell of microdosing fingerstache offal affogato. Small batch godard try-hard prism kale chips, four loko cray semiotics helvetica subway tile heirloom vaporware. Venmo VHS keytar succulents chambray.
+2.고양이의 뛰어난 점프 능력
+고양이는 매우 뛰어난 점프 실력을 가지고 있습니다. 평균적으로 자신의 몸 길이의 5~6배에 해당하는 높이까지 점프할 수 있죠. 그들의 강력한 뒷다리 근육 덕분에 가능합니다.
 
-> Brunch hella poutine authentic farm-to-table. Stumptown craft beer lomo, heirloom single-origin coffee synth PBR&B post-ironic. <cite>- Lorem Ipsum</cite>
+3.코 패턴은 고유한 지문
+사람의 지문이 고유한 것처럼, 고양이의 코 패턴도 각 고양이마다 다릅니다. 코에 있는 작은 돌기와 선이 각각 다르게 배열되어 있어, 고양이마다 고유한 "코 지문"을 갖고 있다고 볼 수 있습니다.
 
-Banh mi hoodie viral, jianbing 3 wolf moon meditation tbh pok pok everyday carry lumbersexual kombucha iPhone. Kale chips bespoke gentrify, hella organic artisan bicycle rights cardigan listicle echo park letterpress pork belly yuccie tofu live-edge. Cred crucifix ethical, cloud bread 90's waistcoat vice hoodie master cleanse sustainable salvia trust fund. Ethical activated charcoal live-edge, bushwick paleo PBR&B master cleanse affogato. Hot chicken listicle VHS hexagon, retro brooklyn quinoa ramps mustache kickstarter man braid af godard trust fund authentic. Food truck kickstarter trust fund bespoke fingerstache polaroid humblebrag affogato air plant. Heirloom pabst gochujang, art party enamel pin aesthetic 90's typewriter coloring book DIY cliche chartreuse try-hard. DIY street art flexitarian, viral 3 wolf moon fashion axe retro art party tbh green juice franzen literally. Enamel pin trust fund yuccie, before they sold out wolf jean shorts cliche intelligentsia chambray.
+4.고양이는 초음파를 들을 수 있다
+고양이의 청각은 매우 민감합니다. 특히 고양이는 인간이 들을 수 없는 초음파 소리도 들을 수 있어, 설치류나 작은 동물들이 내는 미세한 소리도 쉽게 감지할 수 있습니다. 이는 그들이 사냥을 할 때 중요한 역할을 합니다.
+
+5.고양이의 수염은 중요한 감각 기관
+고양이의 수염은 단순한 털이 아닙니다. 수염은 매우 민감한 촉각 수용기를 포함하고 있어 주변 물체의 위치나 크기를 감지할 수 있게 도와줍니다. 특히 어두운 곳에서 고양이가 좁은 공간을 지날 때 수염을 이용해 물체와의 거리를 계산하기도 합니다.
+
+6.고양이의 골골송은 치유 효과가 있다
+고양이가 내는 "골골" 소리(퍼링)는 단순한 만족감의 표시만이 아닙니다. 연구에 따르면 고양이의 퍼링은 25-150Hz의 주파수 범위로, 이 진동은 고양이 스스로의 뼈와 조직을 치유하는 데 도움이 된다고 합니다. 이 주파수는 인간에게도 진정 효과를 줄 수 있다고 알려져 있습니다.
+
+7.초고령 고양이의 사례
+고양이의 평균 수명은 약 12-15년 정도지만, 몇몇 고양이는 20년 이상 살기도 합니다. 세계에서 가장 오래 산 고양이는 38세까지 살았던 "크림 퍼프"라는 고양이로, 기네스 세계 기록에 등재되어 있습니다.
+
+8.고양이는 단맛을 느끼지 못한다
+고양이는 육식 동물로 진화하면서 단맛을 감지하는 미각 수용체를 잃었습니다. 그래서 고양이는 단맛을 느끼지 못하고, 자연적으로도 단 음식에 관심을 보이지 않는 경우가 많습니다.
+
+9.고양이는 고유의 걸음걸이를 가지고 있다
+고양이의 걸음걸이는 낙타나 기린과 같은 독특한 패턴을 가집니다. 이는 양쪽의 앞발과 뒷발을 동시에 움직여 나아가는 "직선 보행"을 의미하는데, 이를 통해 매우 조용하고 효율적으로 움직일 수 있습니다. 이 방식 덕분에 고양이는 사냥 시 소리를 내지 않고 이동할 수 있죠.
+
+10.고양이에게 독이 되는 음식
+고양이에게 치명적인 음식은 생각보다 많습니다. 초콜릿, 양파, 마늘, 포도, 건포도 등은 고양이에게 매우 위험합니다. 또한 우유는 고양이에게 일반적으로 좋지 않습니다. 성숙한 고양이들은 유당을 소화하는 능력이 떨어져, 우유를 먹으면 설사를 할 수 있습니다.
