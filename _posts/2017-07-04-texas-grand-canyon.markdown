@@ -1,15 +1,19 @@
 ---
 layout: post
-title: "Texas: Grand Canyon"
+title: "고양이와 우유: 사실과 오해"
 img: meow.jpg # Add image post (optional)
 date: 2017-07-04 12:54:00 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 tag: [Travel, Texas, Canyon]
 ---
-Flexitarian hella quinoa, stumptown chillwave squid heirloom pop-up church-key. Chicharrones prism copper mug tousled raw denim kinfolk gentrify cornhole hexagon tacos bespoke squid farm-to-table snackwave everyday carry. Vaporware chicharrones activated charcoal jianbing pok pok. Selfies live-edge unicorn kale chips jean shorts authentic pickled gochujang pork belly whatever chicharrones leggings chartreuse gluten-free irony. Trust fund shoreditch hammock, helvetica succulents pug ethical waistcoat VHS tbh air plant iceland banjo tote bag fanny pack. Ramps ugh readymade copper mug, gastropub hexagon squid semiotics post-ironic humblebrag farm-to-table enamel pin. Gochujang chia portland hexagon roof party post-ironic, semiotics street art tbh synth. Air plant vinyl sustainable pork belly. Chicharrones cronut raw denim listicle flexitarian franzen. Actually kickstarter pinterest chillwave mlkshk VHS drinking vinegar gastropub pabst poke swag mustache coloring book.
+고양이와 우유에 관한 잘못된 인식은 여러 요인에서 비롯되었습니다.
 
-Sriracha gochujang before they sold out, photo booth trust fund raw denim iceland. Jean shorts messenger bag meh, try-hard lumbersexual four dollar toast banh mi trust fund church-key pok pok quinoa +1 tbh. Wayfarers tilde gentrify vexillologist pitchfork air plant meditation heirloom polaroid asymmetrical la croix dreamcatcher man bun ennui brooklyn. Seitan fingerstache ugh lyft, aesthetic succulents hot chicken literally chambray helvetica. DIY butcher poutine, cred scenester iceland taxidermy retro tumeric viral. Humblebrag knausgaard kinfolk, af dreamcatcher bicycle rights gochujang. Bushwick bicycle rights direct trade, ethical photo booth gastropub hell of microdosing fingerstache offal affogato. Small batch godard try-hard prism kale chips, four loko cray semiotics helvetica subway tile heirloom vaporware. Venmo VHS keytar succulents chambray.
+고양이의 유당 불내증:많은 고양이는 유당을 소화하는 효소인 락타아제가 부족하여, 우유를 먹으면 소화 불량이나 설사와 같은 위장 문제를 일으킬 수 있습니다. 따라서 고양이가 우유를 마시는 것은 일반적으로 건강에 좋지 않습니다.
 
-> Brunch hella poutine authentic farm-to-table. Stumptown craft beer lomo, heirloom single-origin coffee synth PBR&B post-ironic. <cite>- Lorem Ipsum</cite>
+우유의 오랜 이미지:고양이가 우유를 좋아하는 이미지는 과거의 문화적 영향에서 비롯된 것입니다. 19세기와 20세기 초, 고양이가 우유를 마시는 모습이 그림이나 영화, 광고 등에서 자주 등장했으며, 이는 사람들에게 고양이가 우유를 좋아한다고 인식하게 만들었습니다.
 
-Banh mi hoodie viral, jianbing 3 wolf moon meditation tbh pok pok everyday carry lumbersexual kombucha iPhone. Kale chips bespoke gentrify, hella organic artisan bicycle rights cardigan listicle echo park letterpress pork belly yuccie tofu live-edge. Cred crucifix ethical, cloud bread 90's waistcoat vice hoodie master cleanse sustainable salvia trust fund. Ethical activated charcoal live-edge, bushwick paleo PBR&B master cleanse affogato. Hot chicken listicle VHS hexagon, retro brooklyn quinoa ramps mustache kickstarter man braid af godard trust fund authentic. Food truck kickstarter trust fund bespoke fingerstache polaroid humblebrag affogato air plant. Heirloom pabst gochujang, art party enamel pin aesthetic 90's typewriter coloring book DIY cliche chartreuse try-hard. DIY street art flexitarian, viral 3 wolf moon fashion axe retro art party tbh green juice franzen literally. Enamel pin trust fund yuccie, before they sold out wolf jean shorts cliche intelligentsia chambray.
+대중 매체의 영향:애니메이션이나 만화에서 고양이가 우유를 마시는 장면이 자주 등장하는데, 이러한 이미지가 고양이에 대한 일반적인 인식을 형성하게 되었습니다. 이는 실제로 고양이가 우유를 마시는 것이 건강에 좋지 않다는 사실을 간과하게 만들었습니다.
+
+대체 음식:많은 고양이 주인들은 고양이에게 우유를 주는 대신, 고양이 전용 우유를 제공할 수 있습니다. 이러한 제품은 유당이 제거되어 고양이에게 안전하게 제공할 수 있는 대체 식품입니다.
+
+이와 같은 이유로, 고양이가 우유를 마시는 이미지는 단지 문화적 상징일 뿐이며, 실제로는 고양이의 건강에 좋지 않다는 점을 인식해야 합니다.
