@@ -1,15 +1,27 @@
 ---
 layout: post
-title: "Malaysia: Free swimming"
+title: "미래와 지혜: 영원한 사랑의 기억"
 img: malaysia.jpg # Add image post (optional)
 date: 2017-07-08 12:53:00 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-tag: [Travel, Malaysia, Blogging]
+tag: [슬픔, 눈물, 이야기]
 ---
-Flexitarian hella quinoa, stumptown chillwave squid heirloom pop-up church-key. Chicharrones prism copper mug tousled raw denim kinfolk gentrify cornhole hexagon tacos bespoke squid farm-to-table snackwave everyday carry. Vaporware chicharrones activated charcoal jianbing pok pok. Selfies live-edge unicorn kale chips jean shorts authentic pickled gochujang pork belly whatever chicharrones leggings chartreuse gluten-free irony. Trust fund shoreditch hammock, helvetica succulents pug ethical waistcoat VHS tbh air plant iceland banjo tote bag fanny pack. Ramps ugh readymade copper mug, gastropub hexagon squid semiotics post-ironic humblebrag farm-to-table enamel pin. Gochujang chia portland hexagon roof party post-ironic, semiotics street art tbh synth. Air plant vinyl sustainable pork belly. Chicharrones cronut raw denim listicle flexitarian franzen. Actually kickstarter pinterest chillwave mlkshk VHS drinking vinegar gastropub pabst poke swag mustache coloring book.
+한 번은 미래라는 이름의 고양이가 있었습니다. 미래는 예쁜 털과 커다란 눈을 가진 사랑스러운 고양이였고, 주인 지혜와 함께 행복하게 살고 있었습니다. 지혜는 미래를 사랑하고, 미래도 지혜와 함께하는 매일매일이 행복했습니다.
 
-Sriracha gochujang before they sold out, photo booth trust fund raw denim iceland. Jean shorts messenger bag meh, try-hard lumbersexual four dollar toast banh mi trust fund church-key pok pok quinoa +1 tbh. Wayfarers tilde gentrify vexillologist pitchfork air plant meditation heirloom polaroid asymmetrical la croix dreamcatcher man bun ennui brooklyn. Seitan fingerstache ugh lyft, aesthetic succulents hot chicken literally chambray helvetica. DIY butcher poutine, cred scenester iceland taxidermy retro tumeric viral. Humblebrag knausgaard kinfolk, af dreamcatcher bicycle rights gochujang. Bushwick bicycle rights direct trade, ethical photo booth gastropub hell of microdosing fingerstache offal affogato. Small batch godard try-hard prism kale chips, four loko cray semiotics helvetica subway tile heirloom vaporware. Venmo VHS keytar succulents chambray.
+그러던 어느 날, 지혜는 아프기 시작했습니다. 병원에 가보니 의사는 지혜에게 심각한 병이 있다고 말했습니다. 치료는 필요했지만, 시간이 많지 않다는 말을 들은 지혜는 마음이 아팠습니다. 그러나 지혜는 미래를 걱정하며, 그동안 고양이를 사랑해준 모든 것에 감사했습니다.
 
-> Brunch hella poutine authentic farm-to-table. Stumptown craft beer lomo, heirloom single-origin coffee synth PBR&B post-ironic. <cite>- Lorem Ipsum</cite>
+미래는 지혜의 기분을 감지하고, 하루하루 지혜 곁에 있어주며 기분을 나누었습니다. 지혜는 미래와 함께 하는 시간이 더 소중해졌고, 두 사람은 더욱 더 애틋한 시간을 보냈습니다. 미래는 지혜가 아프다는 사실을 받아들이기 어려웠지만, 그녀를 위로하고 지켜주기 위해 최선을 다했습니다.
 
-Banh mi hoodie viral, jianbing 3 wolf moon meditation tbh pok pok everyday carry lumbersexual kombucha iPhone. Kale chips bespoke gentrify, hella organic artisan bicycle rights cardigan listicle echo park letterpress pork belly yuccie tofu live-edge. Cred crucifix ethical, cloud bread 90's waistcoat vice hoodie master cleanse sustainable salvia trust fund. Ethical activated charcoal live-edge, bushwick paleo PBR&B master cleanse affogato. Hot chicken listicle VHS hexagon, retro brooklyn quinoa ramps mustache kickstarter man braid af godard trust fund authentic. Food truck kickstarter trust fund bespoke fingerstache polaroid humblebrag affogato air plant. Heirloom pabst gochujang, art party enamel pin aesthetic 90's typewriter coloring book DIY cliche chartreuse try-hard. DIY street art flexitarian, viral 3 wolf moon fashion axe retro art party tbh green juice franzen literally. Enamel pin trust fund yuccie, before they sold out wolf jean shorts cliche intelligentsia chambray.
+시간이 지나면서 지혜의 건강은 점점 나빠졌고, 미래는 지혜가 더욱 힘들어하는 모습을 보며 마음이 아팠습니다. 그날 밤, 지혜는 미래를 꼭 껴안고 눈물을 흘렸습니다. “미래야, 너와 함께 한 시간이 정말 행복했어. 너는 나의 소중한 친구야.” 지혜의 눈물은 미래에게 사랑과 슬픔이 섞인 고통을 전해주었습니다.
+
+얼마 후, 지혜는 병원에 입원하게 되었습니다. 미래는 매일 병원으로 가서 지혜의 곁을 지켰습니다. 그러나 날이 갈수록 지혜의 상태는 악화되었고, 어느 날 미래는 집에 혼자 남게 되었습니다. 지혜는 세상을 떠나고 말았고, 미래는 사랑하는 주인을 잃은 슬픔에 휩싸였습니다.
+
+미래는 지혜가 살던 집을 떠나지 않았습니다. 지혜가 남긴 향기가 담긴 이곳에서 그리움을 느끼며 하루하루를 보냈습니다. 주변의 소음과 사람들 속에서도 미래는 지혜의 목소리가 들리는 것 같았습니다. “미래야, 잘 지내고 있지?”라고 속삭이는 듯한 소리에 마음이 아파왔습니다.
+
+그렇게 시간이 흘러 미래는 외로움에 지쳐갔고, 주인을 기다리는 날들이 반복되었습니다. 하지만 어느 날, 지혜가 남긴 사진을 보면서 미소를 지으며 과거의 행복한 기억들을 떠올렸습니다. “고마워, 지혜야. 너와 함께한 모든 순간이 나에게는 정말 특별했어.”
+
+미래는 지혜를 잊지 않기로 결심했습니다. 그녀의 사랑이 영원히 자신의 마음속에 남아 있음을 알고, 그 사랑을 다른 곳으로 전해주기로 했습니다. 그래서 미래는 주변의 다른 고양이들을 돌보고, 자신이 경험한 사랑을 나누며 살기로 했습니다. 그리고 그렇게 시간이 흐르면서, 미래는 지혜와의 추억을 가슴에 품고 더 많은 사랑을 주기 위해 노력했습니다.
+
+결국 미래는 지혜의 기억을 안고, 슬픔 속에서도 사랑의 의미를 찾았습니다. 고양이는 단순한 동물이 아니라, 사람의 마음을 따뜻하게 해주는 존재라는 것을 깨달았던 것입니다. 미래는 지혜가 항상 함께한다는 믿음으로 하루하루를 살아갔고, 그로 인해 다른 고양이들에게도 사랑을 전파할 수 있었습니다.
+
+그리고 언젠가 지혜와 다시 만날 날을 꿈꾸며.
