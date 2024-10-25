@@ -2,7 +2,7 @@
 layout: post
 title: "고양이: 그 위대함을 찬양하다"
 img: canyon.jpg # Add image post (optional)
-date: moka
+date: 2017-07-12 12:54:00 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 tag: [고양이, 찬양, 위대함]
 ---
