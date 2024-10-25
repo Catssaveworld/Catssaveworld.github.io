@@ -1,15 +1,23 @@
 ---
 layout: post
-title: "Indonesia: Rocky mountains"
+title: "고양이의 귀여움: 심리적 및 생물학적 요인"
 img: cat.jpg # Add image post (optional)
 date: 2017-07-10 12:51:00 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-tag: [Travel, Indonesia, Mountains]
+tag: [생물학적, 심리적, 이유]
 ---
-Flexitarian hella quinoa, stumptown chillwave squid heirloom pop-up church-key. Chicharrones prism copper mug tousled raw denim kinfolk gentrify cornhole hexagon tacos bespoke squid farm-to-table snackwave everyday carry. Vaporware chicharrones activated charcoal jianbing pok pok. Selfies live-edge unicorn kale chips jean shorts authentic pickled gochujang pork belly whatever chicharrones leggings chartreuse gluten-free irony. Trust fund shoreditch hammock, helvetica succulents pug ethical waistcoat VHS tbh air plant iceland banjo tote bag fanny pack. Ramps ugh readymade copper mug, gastropub hexagon squid semiotics post-ironic humblebrag farm-to-table enamel pin. Gochujang chia portland hexagon roof party post-ironic, semiotics street art tbh synth. Air plant vinyl sustainable pork belly. Chicharrones cronut raw denim listicle flexitarian franzen. Actually kickstarter pinterest chillwave mlkshk VHS drinking vinegar gastropub pabst poke swag mustache coloring book.
+우리가 고양이를 귀엽다고 느끼는 이유는 여러 심리적, 생물학적 요인에 기인합니다:
 
-Sriracha gochujang before they sold out, photo booth trust fund raw denim iceland. Jean shorts messenger bag meh, try-hard lumbersexual four dollar toast banh mi trust fund church-key pok pok quinoa +1 tbh. Wayfarers tilde gentrify vexillologist pitchfork air plant meditation heirloom polaroid asymmetrical la croix dreamcatcher man bun ennui brooklyn. Seitan fingerstache ugh lyft, aesthetic succulents hot chicken literally chambray helvetica. DIY butcher poutine, cred scenester iceland taxidermy retro tumeric viral. Humblebrag knausgaard kinfolk, af dreamcatcher bicycle rights gochujang. Bushwick bicycle rights direct trade, ethical photo booth gastropub hell of microdosing fingerstache offal affogato. Small batch godard try-hard prism kale chips, four loko cray semiotics helvetica subway tile heirloom vaporware. Venmo VHS keytar succulents chambray.
+유아적 특징: 고양이는 큰 눈, 둥근 얼굴, 작은 코와 귀, 그리고 통통한 몸집과 같은 유아적 특징을 가지고 있습니다. 이러한 특징은 인간의 본능적으로 보호하고 싶어하는 감정을 자극합니다. 심리학에서는 이러한 특성을 "유아 스키마"라고 부르며, 우리는 본능적으로 이러한 특징을 귀엽게 인식합니다.
 
-> Brunch hella poutine authentic farm-to-table. Stumptown craft beer lomo, heirloom single-origin coffee synth PBR&B post-ironic. <cite>- Lorem Ipsum</cite>
+행동: 고양이의 귀여운 행동—장난치는 모습, 발을 쭉 뻗거나 엎드려서 자는 모습, 혹은 장난감과 놀 때의 모습 등—은 사람들에게 즐거움을 줍니다. 이러한 행동은 우리의 정서를 자극하며, 귀여움을 느끼게 만듭니다.
 
-Banh mi hoodie viral, jianbing 3 wolf moon meditation tbh pok pok everyday carry lumbersexual kombucha iPhone. Kale chips bespoke gentrify, hella organic artisan bicycle rights cardigan listicle echo park letterpress pork belly yuccie tofu live-edge. Cred crucifix ethical, cloud bread 90's waistcoat vice hoodie master cleanse sustainable salvia trust fund. Ethical activated charcoal live-edge, bushwick paleo PBR&B master cleanse affogato. Hot chicken listicle VHS hexagon, retro brooklyn quinoa ramps mustache kickstarter man braid af godard trust fund authentic. Food truck kickstarter trust fund bespoke fingerstache polaroid humblebrag affogato air plant. Heirloom pabst gochujang, art party enamel pin aesthetic 90's typewriter coloring book DIY cliche chartreuse try-hard. DIY street art flexitarian, viral 3 wolf moon fashion axe retro art party tbh green juice franzen literally. Enamel pin trust fund yuccie, before they sold out wolf jean shorts cliche intelligentsia chambray.
+소리: 고양이의 울음소리와 퍼링 소리는 사람에게 편안함과 안락함을 주는 소리로 여겨집니다. 특히 퍼링 소리는 인간에게 진정 효과를 줄 수 있어, 고양이를 더 귀엽게 느끼게 합니다.
+
+사회적 유대감: 고양이는 사람과의 교감을 통해 애정과 신뢰를 쌓습니다. 고양이가 주인과 가까이 있거나 애정 표현을 할 때 우리는 그들을 더욱 귀엽게 느끼게 됩니다. 이러한 유대감은 고양이를 귀엽게 인식하는 데 큰 영향을 미칩니다.
+
+작고 귀여운 크기: 고양이는 상대적으로 작은 크기와 가벼운 몸무게를 가지고 있어, 사람들에게 친근감을 주고 귀여움을 느끼게 합니다. 작은 동물에 대한 긍정적인 감정은 보편적으로 존재합니다.
+
+문화적 영향: 미디어와 대중문화에서 고양이는 자주 귀엽고 사랑스러운 캐릭터로 등장합니다. 이러한 문화적 요소가 우리의 인식에 영향을 미치고, 고양이를 귀엽다고 느끼는 데 기여합니다.
+
+이러한 다양한 요인들이 결합되어 고양이를 귀엽고 사랑스러운 존재로 인식하게 만듭니다.
