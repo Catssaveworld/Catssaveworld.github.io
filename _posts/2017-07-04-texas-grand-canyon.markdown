@@ -4,7 +4,7 @@ title: "고양이와 우유: 사실과 오해"
 img: meow.jpg # Add image post (optional)
 date: 2017-07-04 12:54:00 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-tag: [Travel, Texas, Canyon]
+tag: [우유, 오해, 사실]
 ---
 고양이와 우유에 관한 잘못된 인식은 여러 요인에서 비롯되었습니다.
 
