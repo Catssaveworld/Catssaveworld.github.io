@@ -1,15 +1,29 @@
 ---
 layout: post
-title: "Nevada: On the way to Nevada"
+title: "어둠 속의 황금 눈"
 img: nevada.jpg # Add image post (optional)
 date: 2017-07-12 12:50:00 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-tag: [Travel, Nevada]
+tag: [공포, 이야기]
 ---
-Flexitarian hella quinoa, stumptown chillwave squid heirloom pop-up church-key. Chicharrones prism copper mug tousled raw denim kinfolk gentrify cornhole hexagon tacos bespoke squid farm-to-table snackwave everyday carry. Vaporware chicharrones activated charcoal jianbing pok pok. Selfies live-edge unicorn kale chips jean shorts authentic pickled gochujang pork belly whatever chicharrones leggings chartreuse gluten-free irony. Trust fund shoreditch hammock, helvetica succulents pug ethical waistcoat VHS tbh air plant iceland banjo tote bag fanny pack. Ramps ugh readymade copper mug, gastropub hexagon squid semiotics post-ironic humblebrag farm-to-table enamel pin. Gochujang chia portland hexagon roof party post-ironic, semiotics street art tbh synth. Air plant vinyl sustainable pork belly. Chicharrones cronut raw denim listicle flexitarian franzen. Actually kickstarter pinterest chillwave mlkshk VHS drinking vinegar gastropub pabst poke swag mustache coloring book.
+어느 작은 마을에 **"어둠 속의 고양이"**라는 전설이 내려오고 있었습니다. 이 고양이는 밤이 깊어질 때 나타나며, 검은 털에 빛나는 황금빛 눈을 가진 존재로 알려져 있었습니다. 마을 사람들은 그 고양이가 단순한 길고양이가 아니라, 죽은 이들의 영혼을 데려가는 사신이라고 믿고 있었습니다.
 
-Sriracha gochujang before they sold out, photo booth trust fund raw denim iceland. Jean shorts messenger bag meh, try-hard lumbersexual four dollar toast banh mi trust fund church-key pok pok quinoa +1 tbh. Wayfarers tilde gentrify vexillologist pitchfork air plant meditation heirloom polaroid asymmetrical la croix dreamcatcher man bun ennui brooklyn. Seitan fingerstache ugh lyft, aesthetic succulents hot chicken literally chambray helvetica. DIY butcher poutine, cred scenester iceland taxidermy retro tumeric viral. Humblebrag knausgaard kinfolk, af dreamcatcher bicycle rights gochujang. Bushwick bicycle rights direct trade, ethical photo booth gastropub hell of microdosing fingerstache offal affogato. Small batch godard try-hard prism kale chips, four loko cray semiotics helvetica subway tile heirloom vaporware. Venmo VHS keytar succulents chambray.
+이 고양이가 나타난 마을에는 늘 이상한 일이 벌어지곤 했습니다. 고양이를 본 후 며칠이 지나면 그 집안에서 누군가 이유 없이 병에 걸리거나, 갑자기 사라지곤 했습니다. 그래서 마을 사람들은 어둠 속에서 빛나는 고양이의 눈을 마주치지 않으려 했고, 만약 고양이가 나타나면 아무리 위험해도 절대 그 고양이에게 눈길을 주지 않는 것이 마을의 불문율이었습니다.
 
-> Brunch hella poutine authentic farm-to-table. Stumptown craft beer lomo, heirloom single-origin coffee synth PBR&B post-ironic. <cite>- Lorem Ipsum</cite>
+그러던 어느 날, 호기심 많은 소년 유토는 이 이야기가 단순한 전설이라고 생각했습니다. 그는 고양이를 무서워하기는커녕, 그 존재를 직접 확인하고 싶어 했습니다. 그러던 중, 어느 늦은 밤 유토는 마을 외곽에서 고양이를 보게 되었습니다. 검은 어둠 속에서 반짝이는 황금빛 눈이 마치 그를 응시하고 있는 듯했습니다. 소문이 떠올랐지만, 유토는 겁내지 않고 고양이에게 가까이 다가갔습니다.
 
-Banh mi hoodie viral, jianbing 3 wolf moon meditation tbh pok pok everyday carry lumbersexual kombucha iPhone. Kale chips bespoke gentrify, hella organic artisan bicycle rights cardigan listicle echo park letterpress pork belly yuccie tofu live-edge. Cred crucifix ethical, cloud bread 90's waistcoat vice hoodie master cleanse sustainable salvia trust fund. Ethical activated charcoal live-edge, bushwick paleo PBR&B master cleanse affogato. Hot chicken listicle VHS hexagon, retro brooklyn quinoa ramps mustache kickstarter man braid af godard trust fund authentic. Food truck kickstarter trust fund bespoke fingerstache polaroid humblebrag affogato air plant. Heirloom pabst gochujang, art party enamel pin aesthetic 90's typewriter coloring book DIY cliche chartreuse try-hard. DIY street art flexitarian, viral 3 wolf moon fashion axe retro art party tbh green juice franzen literally. Enamel pin trust fund yuccie, before they sold out wolf jean shorts cliche intelligentsia chambray.
+고양이는 그저 유토를 지켜보기만 했고, 그 순간 유토는 속으로 웃었습니다. "이게 무슨 사신이야? 그냥 평범한 고양이잖아,"라고 생각하며 유토는 고양이에게 말을 걸었습니다. 고양이는 한 번도 울지 않고 가만히 그 자리에 서 있었고, 유토는 아무 일도 일어나지 않자 집으로 돌아갔습니다.
+
+그러나 그날 밤, 유토는 이상한 꿈을 꾸기 시작했습니다. 꿈속에서 그는 끝없는 어둠 속을 헤매고 있었고, 멀리서 고양이의 울음소리가 들려왔습니다. 점점 울음소리가 가까워질수록 유토의 가슴은 쿵쿵 뛰었고, 숨이 막히기 시작했습니다. 그는 도망치려 했지만, 어둠 속에서 고양이의 황금빛 눈이 자신을 쫓아오는 것을 느낄 수 있었습니다.
+
+다음날 아침, 유토는 식은땀을 흘리며 깨어났지만 꿈이라고 생각하며 대수롭지 않게 넘겼습니다. 그러나 며칠 후, 마을에서 이상한 일이 벌어졌습니다. 유토가 마주쳤던 그 고양이가 다른 집에도 나타나기 시작한 것입니다. 고양이가 지나간 곳에서는 동물들이 사라지거나, 병든 사람의 상태가 더 나빠졌습니다.
+
+유토는 자신의 꿈이 단순한 악몽이 아니라는 것을 깨닫기 시작했습니다. 고양이는 단지 그를 쫓아온 것이 아니라, 그가 속해 있는 마을 전체에 영향을 미치기 시작한 것입니다. 마을 사람들은 유토가 그 고양이를 마주쳤다는 사실을 알고 공포에 떨며, 그를 고양이의 저주에서 풀어줄 방법을 찾으려 했습니다.
+
+하지만 시간이 지날수록 고양이의 기운은 더욱 강해졌고, 마을은 점차 이상한 죽음과 사고로 얼룩지기 시작했습니다. 결국 유토는 다시 그 고양이를 찾아가야만 했습니다. 그는 마을의 끝자락에 있는 고양이가 처음 나타났던 그 자리에 도착했습니다. 고양이는 여전히 그 자리에 있었고, 이번에는 유토를 향해 천천히 다가왔습니다.
+
+고양이가 가까워지자 유토는 갑자기 차가운 기운이 온몸을 휘감는 것을 느꼈습니다. 고양이는 그의 발치에 멈추더니, 그를 올려다보며 아주 작게 울었습니다. 그 순간 유토는 무언가가 그의 머릿속에 스며드는 듯한 느낌을 받았고, 고양이의 황금빛 눈 속에서 어딘가 익숙한 얼굴들을 보기 시작했습니다. 그것은 마을에서 실종되거나 병으로 죽은 사람들의 얼굴이었습니다.
+
+고양이는 천천히 돌아서더니 어둠 속으로 사라졌습니다. 유토는 멍하니 서 있었지만, 그가 아는 한 가지는 분명했습니다. 고양이는 단순히 영혼을 데려가는 사신이 아니라, 그 영혼들을 자신 안에 가둬 두는 존재였던 것입니다.
+
+그 후로 유토는 마을을 떠났고, 다시는 그 고양이를 본 적이 없었습니다. 하지만 사람들은 여전히 어둠 속에서 빛나는 고양이의 눈을 조심하며 살아가고 있습니다. 고양이는 여전히 그곳에 있을지도 모른다는 두려움과 함께.
