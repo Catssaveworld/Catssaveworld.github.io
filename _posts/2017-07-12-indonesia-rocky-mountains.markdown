@@ -1,15 +1,19 @@
 ---
 layout: post
-title: "Indonesia: Rocky mountains"
+title: "고양이 이름의 어원과 그 유래"
 img: indonesia.jpg # Add image post (optional)
 date: 2017-07-12 12:51:00 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-tag: [Travel, Indonesia, Mountains]
+tag: [어원, 고대한국어, 한자]
 ---
-Flexitarian hella quinoa, stumptown chillwave squid heirloom pop-up church-key. Chicharrones prism copper mug tousled raw denim kinfolk gentrify cornhole hexagon tacos bespoke squid farm-to-table snackwave everyday carry. Vaporware chicharrones activated charcoal jianbing pok pok. Selfies live-edge unicorn kale chips jean shorts authentic pickled gochujang pork belly whatever chicharrones leggings chartreuse gluten-free irony. Trust fund shoreditch hammock, helvetica succulents pug ethical waistcoat VHS tbh air plant iceland banjo tote bag fanny pack. Ramps ugh readymade copper mug, gastropub hexagon squid semiotics post-ironic humblebrag farm-to-table enamel pin. Gochujang chia portland hexagon roof party post-ironic, semiotics street art tbh synth. Air plant vinyl sustainable pork belly. Chicharrones cronut raw denim listicle flexitarian franzen. Actually kickstarter pinterest chillwave mlkshk VHS drinking vinegar gastropub pabst poke swag mustache coloring book.
+고양이가 왜 "고양이"라고 불리게 되었는지는 어원적으로 다음과 같이 설명할 수 있습니다.
 
-Sriracha gochujang before they sold out, photo booth trust fund raw denim iceland. Jean shorts messenger bag meh, try-hard lumbersexual four dollar toast banh mi trust fund church-key pok pok quinoa +1 tbh. Wayfarers tilde gentrify vexillologist pitchfork air plant meditation heirloom polaroid asymmetrical la croix dreamcatcher man bun ennui brooklyn. Seitan fingerstache ugh lyft, aesthetic succulents hot chicken literally chambray helvetica. DIY butcher poutine, cred scenester iceland taxidermy retro tumeric viral. Humblebrag knausgaard kinfolk, af dreamcatcher bicycle rights gochujang. Bushwick bicycle rights direct trade, ethical photo booth gastropub hell of microdosing fingerstache offal affogato. Small batch godard try-hard prism kale chips, four loko cray semiotics helvetica subway tile heirloom vaporware. Venmo VHS keytar succulents chambray.
+한자 어원
+한국어에서 "고양이"라는 단어는 한자어 *고양이(猫, 묘)*에서 유래되었습니다. 중국어로도 고양이를 "마오(猫)"라고 부르는데, 이와 유사한 발음이 한국어에 들어오면서 변형된 것입니다. "고(高)"는 높다는 뜻을 지니고 있지만, 여기서는 단순히 의미가 없는 음차에 가깝고, "양이"는 고양이의 발음적 요소로 받아들여졌습니다.
 
-> Brunch hella poutine authentic farm-to-table. Stumptown craft beer lomo, heirloom single-origin coffee synth PBR&B post-ironic. <cite>- Lorem Ipsum</cite>
+고대 한국어의 어원
+또한 한국어에서 "고양이"라는 단어가 구체적으로 언제 어떻게 만들어졌는지는 명확히 밝혀지지 않았지만, 고양이는 한국에서 오랫동안 인간과 함께 살아온 동물로, 자연스럽게 지역적 변화를 거친 발음으로 추정됩니다. 고양이를 부르는 소리나 울음소리 "야옹"을 기초로 그와 비슷한 음으로 발전했을 가능성도 있습니다.
 
-Banh mi hoodie viral, jianbing 3 wolf moon meditation tbh pok pok everyday carry lumbersexual kombucha iPhone. Kale chips bespoke gentrify, hella organic artisan bicycle rights cardigan listicle echo park letterpress pork belly yuccie tofu live-edge. Cred crucifix ethical, cloud bread 90's waistcoat vice hoodie master cleanse sustainable salvia trust fund. Ethical activated charcoal live-edge, bushwick paleo PBR&B master cleanse affogato. Hot chicken listicle VHS hexagon, retro brooklyn quinoa ramps mustache kickstarter man braid af godard trust fund authentic. Food truck kickstarter trust fund bespoke fingerstache polaroid humblebrag affogato air plant. Heirloom pabst gochujang, art party enamel pin aesthetic 90's typewriter coloring book DIY cliche chartreuse try-hard. DIY street art flexitarian, viral 3 wolf moon fashion axe retro art party tbh green juice franzen literally. Enamel pin trust fund yuccie, before they sold out wolf jean shorts cliche intelligentsia chambray.
+고양이와 관련된 단어는 여러 언어에서 비슷한 발음을 가지고 있는데, 예를 들어 영어의 "cat"은 라틴어 "cattus", 아랍어 "qitt"에서 기원했으며, 이들 모두 고대 이집트어 "caute"와 관련이 있는 것으로 알려져 있습니다.
+
+따라서 "고양이"라는 이름은 역사적으로 여러 문화권에서 유사한 발음으로 동물의 특징을 반영한 것으로 볼 수 있습니다.
