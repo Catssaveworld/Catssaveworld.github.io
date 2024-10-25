@@ -6,7 +6,7 @@ date: 2017-07-10 12:51:00 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 tag: [생물학적, 심리적, 이유]
 ---
-우리가 고양이를 귀엽다고 느끼는 이유는 여러 심리적, 생물학적 요인에 기인합니다:
+우리가 고양이를 귀엽다고 느끼는 이유는 여러 심리적, 생물학적 요인에 기인합니다
 
 유아적 특징: 고양이는 큰 눈, 둥근 얼굴, 작은 코와 귀, 그리고 통통한 몸집과 같은 유아적 특징을 가지고 있습니다. 이러한 특징은 인간의 본능적으로 보호하고 싶어하는 감정을 자극합니다. 심리학에서는 이러한 특성을 "유아 스키마"라고 부르며, 우리는 본능적으로 이러한 특징을 귀엽게 인식합니다.
 
