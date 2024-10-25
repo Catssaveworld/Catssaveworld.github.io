@@ -1,15 +1,21 @@
 ---
 layout: post
-title: "Sweden: Beautiful forest"
+title: "별의 소원을 듣는 고양이, 루나"
 img: sweden.jpg # Add image post (optional)
 date: 2017-07-12 12:52:00 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-tag: [Sweden, Travel, Forest]
+tag: [동화, 별, 감동적]
 ---
-Flexitarian hella quinoa, stumptown chillwave squid heirloom pop-up church-key. Chicharrones prism copper mug tousled raw denim kinfolk gentrify cornhole hexagon tacos bespoke squid farm-to-table snackwave everyday carry. Vaporware chicharrones activated charcoal jianbing pok pok. Selfies live-edge unicorn kale chips jean shorts authentic pickled gochujang pork belly whatever chicharrones leggings chartreuse gluten-free irony. Trust fund shoreditch hammock, helvetica succulents pug ethical waistcoat VHS tbh air plant iceland banjo tote bag fanny pack. Ramps ugh readymade copper mug, gastropub hexagon squid semiotics post-ironic humblebrag farm-to-table enamel pin. Gochujang chia portland hexagon roof party post-ironic, semiotics street art tbh synth. Air plant vinyl sustainable pork belly. Chicharrones cronut raw denim listicle flexitarian franzen. Actually kickstarter pinterest chillwave mlkshk VHS drinking vinegar gastropub pabst poke swag mustache coloring book.
+한 번은 루나라는 이름의 작은 회색 고양이가 큰 도시에서 혼자 살아가고 있었습니다. 루나는 특별히 눈에 띄는 고양이는 아니었고, 그저 도시의 구석구석을 돌아다니며 매일 먹이를 찾아 헤매는 평범한 길고양이였죠. 하지만 루나에겐 아주 특별한 습관이 있었습니다. 매일 밤이 되면 루나는 도시 한가운데 있는 오래된 탑에 올라가 하늘을 올려다보곤 했습니다. 사람들이 보기엔 그저 밤하늘을 감상하는 것처럼 보였지만, 사실 루나는 다른 이유로 그곳에 있었습니다.
 
-Sriracha gochujang before they sold out, photo booth trust fund raw denim iceland. Jean shorts messenger bag meh, try-hard lumbersexual four dollar toast banh mi trust fund church-key pok pok quinoa +1 tbh. Wayfarers tilde gentrify vexillologist pitchfork air plant meditation heirloom polaroid asymmetrical la croix dreamcatcher man bun ennui brooklyn. Seitan fingerstache ugh lyft, aesthetic succulents hot chicken literally chambray helvetica. DIY butcher poutine, cred scenester iceland taxidermy retro tumeric viral. Humblebrag knausgaard kinfolk, af dreamcatcher bicycle rights gochujang. Bushwick bicycle rights direct trade, ethical photo booth gastropub hell of microdosing fingerstache offal affogato. Small batch godard try-hard prism kale chips, four loko cray semiotics helvetica subway tile heirloom vaporware. Venmo VHS keytar succulents chambray.
+루나는 밤하늘의 별과 대화를 나눌 수 있는 능력이 있었어요. 별들은 루나에게 사람들의 꿈과 소원을 속삭여 주었죠. 별들이 들려준 이야기 중엔 아주 사소한 소망도 있었고, 인생을 바꿀 만한 절실한 꿈들도 있었습니다. 루나는 그 이야기를 들을 때마다 어떤 방식으로든 사람들을 돕고 싶었지만, 작은 고양이에 불과한 자신이 할 수 있는 일은 많지 않다고 생각했어요.
 
-> Brunch hella poutine authentic farm-to-table. Stumptown craft beer lomo, heirloom single-origin coffee synth PBR&B post-ironic. <cite>- Lorem Ipsum</cite>
+그러던 어느 날, 도시의 한 작은 소녀가 큰 어려움에 처하게 되었습니다. 소녀의 아버지가 병에 걸렸지만, 그를 치료할 돈이 없었고, 소녀는 매일 밤 하늘을 올려다보며 아버지를 위해 기도했습니다. 그날도 소녀는 창밖에 별을 보며 속삭였고, 그 소원을 들은 별들은 루나에게 그 이야기를 전했습니다.
 
-Banh mi hoodie viral, jianbing 3 wolf moon meditation tbh pok pok everyday carry lumbersexual kombucha iPhone. Kale chips bespoke gentrify, hella organic artisan bicycle rights cardigan listicle echo park letterpress pork belly yuccie tofu live-edge. Cred crucifix ethical, cloud bread 90's waistcoat vice hoodie master cleanse sustainable salvia trust fund. Ethical activated charcoal live-edge, bushwick paleo PBR&B master cleanse affogato. Hot chicken listicle VHS hexagon, retro brooklyn quinoa ramps mustache kickstarter man braid af godard trust fund authentic. Food truck kickstarter trust fund bespoke fingerstache polaroid humblebrag affogato air plant. Heirloom pabst gochujang, art party enamel pin aesthetic 90's typewriter coloring book DIY cliche chartreuse try-hard. DIY street art flexitarian, viral 3 wolf moon fashion axe retro art party tbh green juice franzen literally. Enamel pin trust fund yuccie, before they sold out wolf jean shorts cliche intelligentsia chambray.
+루나는 그 이야기를 듣고 가만히 있을 수 없었어요. 다음 날 루나는 소녀의 집을 찾아가, 그녀의 발치에 앉아 부드럽게 울었습니다. 소녀는 낯선 고양이의 등장에 잠시 놀랐지만, 곧 따뜻한 눈빛을 가진 루나를 집 안으로 들였습니다. 그때부터 루나는 소녀의 집 근처를 떠나지 않고, 매일 밤 하늘을 바라보며 별들과 이야기를 나눴습니다.
+
+어느 날, 루나는 별들에게서 특별한 메시지를 받았습니다. 도시 밖의 숲에서 자라는 희귀한 약초가 소녀의 아버지 병에 효과가 있다는 것이었죠. 이 정보는 매우 소중했지만, 아무도 그 약초가 어디에 자라는지 몰랐습니다. 루나는 자신이 직접 그 약초를 찾아야 한다고 결심했어요.
+
+루나는 깊은 숲 속으로 들어가 며칠 동안 쉬지 않고 걸었고, 마침내 그 약초를 발견했습니다. 도시로 돌아온 루나는 그 약초를 소녀의 집 앞에 두고 사라졌습니다. 소녀는 아침에 문을 열고 약초를 발견했고, 이를 통해 아버지를 치료할 수 있었습니다. 소녀는 어떻게 이 약초가 찾아왔는지 몰랐지만, 매일 자신을 찾아오던 그 작은 고양이가 은혜의 주인공임을 직감했습니다.
+
+루나의 이야기는 소녀의 가족에게 전해졌고, 사람들은 이 고양이가 그들의 하늘과 소원을 연결해 주는 특별한 존재임을 알게 되었습니다. 그 후로 도시는 **"밤하늘을 지켜보는 고양이"**라는 전설로 가득 찼고, 사람들은 루나를 하늘의 축복을 가져다주는 고양이로 기억하게 되었습니다.
