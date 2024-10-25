@@ -1,15 +1,23 @@
 ---
 layout: post
-title: "Nevada: On the way to Nevada"
+title: "고양이가 많이 자는 이유"
 img: nevada.jpg # Add image post (optional)
 date: 2017-07-11 12:50:00 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-tag: [Travel, Nevada]
+tag: [수면, 쿨쿨]
 ---
-Flexitarian hella quinoa, stumptown chillwave squid heirloom pop-up church-key. Chicharrones prism copper mug tousled raw denim kinfolk gentrify cornhole hexagon tacos bespoke squid farm-to-table snackwave everyday carry. Vaporware chicharrones activated charcoal jianbing pok pok. Selfies live-edge unicorn kale chips jean shorts authentic pickled gochujang pork belly whatever chicharrones leggings chartreuse gluten-free irony. Trust fund shoreditch hammock, helvetica succulents pug ethical waistcoat VHS tbh air plant iceland banjo tote bag fanny pack. Ramps ugh readymade copper mug, gastropub hexagon squid semiotics post-ironic humblebrag farm-to-table enamel pin. Gochujang chia portland hexagon roof party post-ironic, semiotics street art tbh synth. Air plant vinyl sustainable pork belly. Chicharrones cronut raw denim listicle flexitarian franzen. Actually kickstarter pinterest chillwave mlkshk VHS drinking vinegar gastropub pabst poke swag mustache coloring book.
+고양이가 많이 자는 이유는 여러 가지가 있습니다
 
-Sriracha gochujang before they sold out, photo booth trust fund raw denim iceland. Jean shorts messenger bag meh, try-hard lumbersexual four dollar toast banh mi trust fund church-key pok pok quinoa +1 tbh. Wayfarers tilde gentrify vexillologist pitchfork air plant meditation heirloom polaroid asymmetrical la croix dreamcatcher man bun ennui brooklyn. Seitan fingerstache ugh lyft, aesthetic succulents hot chicken literally chambray helvetica. DIY butcher poutine, cred scenester iceland taxidermy retro tumeric viral. Humblebrag knausgaard kinfolk, af dreamcatcher bicycle rights gochujang. Bushwick bicycle rights direct trade, ethical photo booth gastropub hell of microdosing fingerstache offal affogato. Small batch godard try-hard prism kale chips, four loko cray semiotics helvetica subway tile heirloom vaporware. Venmo VHS keytar succulents chambray.
+야행성 본능: 고양이는 본래 야행성 동물로, 주로 저녁과 밤에 활발하게 활동합니다. 낮에는 에너지를 아끼고 회복하기 위해 많이 잠을 자는 경향이 있습니다.
 
-> Brunch hella poutine authentic farm-to-table. Stumptown craft beer lomo, heirloom single-origin coffee synth PBR&B post-ironic. <cite>- Lorem Ipsum</cite>
+사냥 본능: 고양이는 사냥을 통해 음식을 얻는 육식 동물입니다. 사냥에는 많은 에너지가 소모되므로, 사냥을 위해 에너지를 비축하기 위해 자는 시간이 필요합니다.
 
-Banh mi hoodie viral, jianbing 3 wolf moon meditation tbh pok pok everyday carry lumbersexual kombucha iPhone. Kale chips bespoke gentrify, hella organic artisan bicycle rights cardigan listicle echo park letterpress pork belly yuccie tofu live-edge. Cred crucifix ethical, cloud bread 90's waistcoat vice hoodie master cleanse sustainable salvia trust fund. Ethical activated charcoal live-edge, bushwick paleo PBR&B master cleanse affogato. Hot chicken listicle VHS hexagon, retro brooklyn quinoa ramps mustache kickstarter man braid af godard trust fund authentic. Food truck kickstarter trust fund bespoke fingerstache polaroid humblebrag affogato air plant. Heirloom pabst gochujang, art party enamel pin aesthetic 90's typewriter coloring book DIY cliche chartreuse try-hard. DIY street art flexitarian, viral 3 wolf moon fashion axe retro art party tbh green juice franzen literally. Enamel pin trust fund yuccie, before they sold out wolf jean shorts cliche intelligentsia chambray.
+성장과 발달: 특히 새끼 고양이는 성장과 발달을 위해 많은 수면이 필요합니다. 자는 동안 신체가 성장하고 면역 체계가 강화됩니다.
+
+체온 유지: 고양이는 체온을 유지하기 위해 자주 자는 경향이 있습니다. 낮은 온도에서는 몸을 따뜻하게 유지하기 위해 잠을 많이 자고, 따뜻한 곳에서 쉴 때는 자연스럽게 더 많이 자게 됩니다.
+
+휴식과 회복: 고양이는 다른 동물들에 비해 몸이 작고 빠르게 활동할 수 있지만, 동시에 스트레스와 피로를 잘 느낍니다. 수면은 이러한 스트레스를 회복하고 몸을 회복하는 데 중요한 역할을 합니다.
+
+주변 환경의 안정성: 고양이는 안전하다고 느낄 때 더 많이 자는 경향이 있습니다. 안전한 환경에서는 불안감 없이 편안하게 잠을 잘 수 있습니다.
+
+이러한 이유들 덕분에 고양이는 하루에 12~16시간 이상 자는 경우가 많으며, 어떤 경우에는 20시간까지 자기도 합니다.
